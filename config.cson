@@ -1,0 +1,18 @@
+"*":
+  core:
+    openEmptyEditorOnStart: false
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  editor:
+    softWrap: true
+  "exception-reporting":
+    userId: "a79a4ea3-200c-4cf5-a4ac-39ed487f6a00"
+  "linter-eslint":
+    fixOnSave: true
+  "seti-ui": {}
+  "tree-view":
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false
